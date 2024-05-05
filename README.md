@@ -1,7 +1,7 @@
 <H3>NAME:Harini B.</H3>
 <H3>REGISTER NO:212221230035</H3>
 <H3>EX.NO:7</H3>
-<H3>DATE:5/5/24 </H3>
+<H3>DATE:1/5/24 </H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 
 ## AIM:
